@@ -1,5 +1,6 @@
 # Leave-Application-System_Spring-Boot-Java
-Leave and Overtime Application System for Employees, Manager and Administrator using Spring Boot, Java & MySQL
+
+# Leave and Overtime Application System for Employees, Manager and Administrator using Spring Boot, Java & MySQL
 
 ![WorkDistribution](https://user-images.githubusercontent.com/65886071/92283749-2ae14b80-ef33-11ea-855c-0f5796a64ea7.PNG)
 
