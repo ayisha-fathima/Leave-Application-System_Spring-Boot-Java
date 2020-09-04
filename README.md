@@ -42,6 +42,6 @@ Leave and Overtime Application System for Employees, Manager and Administrator u
 
 ![SpringSecurity](https://user-images.githubusercontent.com/65886071/92284648-04241480-ef35-11ea-9ff1-908761d9cf2d.PNG)
 
-# Calendar Integration Real Time, Save & Print
+# Holiday Calendar Integration Real Time, Save & Print
 
 ![calendarintegration](https://user-images.githubusercontent.com/65886071/92284732-3afa2a80-ef35-11ea-8c78-b59b92287c41.PNG)
